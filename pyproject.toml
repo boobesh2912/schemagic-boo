@@ -49,7 +49,6 @@ dev = [
 all = ["schemagic-boo[yaml,dev]"]
 
 [project.urls]
-[project.urls]
 Homepage = "https://github.com/boobesh2912/schemagic-boo"
 Documentation = "https://github.com/boobesh2912/schemagic-boo#readme"
 Repository = "https://github.com/boobesh2912/schemagic-boo"
